@@ -7,9 +7,9 @@ import java.util.Map;
 //测试使用
 public class TestUse {
 	public static void main(String args[]){
-		IIteratorFactory<Integer> factory = new IteratorFactory<>();
+		IIteratorFactory<Integer> factory = new IteratorFactory<Integer>();
 		Collection<Integer> collection = new ArrayList<Integer>();
-		Map<Integer, Object> map = new LinkedHashMap<>();
+		Map<Integer, Object> map = new LinkedHashMap<Integer, Object>();
 		for(int i=0;i<10;i++){
 			collection.add(i);
 			map.put(i, i);

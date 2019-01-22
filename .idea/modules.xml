@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaDesignPattern.iml" filepath="$PROJECT_DIR$/JavaDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBeiFeng/javaBeiFeng.iml" filepath="$PROJECT_DIR$/javaBeiFeng/javaBeiFeng.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaDesignPattern/javaDesignPattern.iml" filepath="$PROJECT_DIR$/javaDesignPattern/javaDesignPattern.iml" />
     </modules>
   </component>
