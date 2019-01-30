@@ -8,9 +8,25 @@
     <artifactId>DesignPattern</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>6</source>
+                    <target>6</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
     <modules>
         <module>javaDesignPattern</module>
         <module>javaBeiFeng</module>
+        <module>javaGOF23</module>
+        <module>javaJiKe</module>
+        <module>javaShangXueTang</module>
+        <module>javaMaShiBing</module>
     </modules>
 
 

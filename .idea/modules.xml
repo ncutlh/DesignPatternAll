@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaBeiFeng/javaBeiFeng.iml" filepath="$PROJECT_DIR$/javaBeiFeng/javaBeiFeng.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaDesignPattern/javaDesignPattern.iml" filepath="$PROJECT_DIR$/javaDesignPattern/javaDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaGOF23/javaGOF23.iml" filepath="$PROJECT_DIR$/javaGOF23/javaGOF23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaJiKe/javaJiKe.iml" filepath="$PROJECT_DIR$/javaJiKe/javaJiKe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaMaShiBing/javaMaShiBing.iml" filepath="$PROJECT_DIR$/javaMaShiBing/javaMaShiBing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaShangXueTang/javaShangXueTang.iml" filepath="$PROJECT_DIR$/javaShangXueTang/javaShangXueTang.iml" />
     </modules>
   </component>
 </project>

@@ -8,12 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="javaBeiFeng" />
         <module name="javaDesignPattern" />
+        <module name="javaGOF23" />
+        <module name="javaJiKe" />
+        <module name="javaMaShiBing" />
+        <module name="javaShangXueTang" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DesignPattern" target="1.5" />
-      <module name="javaBeiFeng" target="1.5" />
-      <module name="javaDesignPattern" target="1.5" />
+      <module name="DesignPattern" target="6" />
+      <module name="javaBeiFeng" target="6" />
+      <module name="javaDesignPattern" target="6" />
+      <module name="javaGOF23" target="6" />
+      <module name="javaJiKe" target="6" />
+      <module name="javaMaShiBing" target="6" />
+      <module name="javaShangXueTang" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

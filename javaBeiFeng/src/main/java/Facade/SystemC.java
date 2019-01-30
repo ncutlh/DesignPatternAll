@@ -1,14 +1,14 @@
 package Facade;
 
 /*
- * C��ϵͳ
+ * C子系统
  */
 public class SystemC {
 
 	/*
-	 * C��ϵͳʵ�ֹ���
+	 * C子系统实现功能
 	 */
 	public void doSomething() {
-		System.out.println("ʵ��C��ϵͳ����");
+		System.out.println("实现C子系统功能");
 	}
 }
